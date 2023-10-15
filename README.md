@@ -14,6 +14,8 @@ I learned a lot of stuff related to data science skills. This bootcamp has 10 sp
 - Essential Statistics for Data Analyst
 - Essential Machine Learning for Data Analyst
 - Essential Machine Learning for Data Analyst
-- Python programming
+- Python Programming
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on LinkedIn https://www.linkedin.com/in/kaesinee-thrisung-a2897b15a/
