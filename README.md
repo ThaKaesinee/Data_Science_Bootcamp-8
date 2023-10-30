@@ -3,16 +3,15 @@ My data portfolio for data analyst role
 
 ## what did I learn from this bootcamp
 
-I learned a lot of stuff related to data science skills. This bootcamp has 10 sprints as follows
+I learned a lot of stuff related to data science skills. This bootcamp has 11 sprints as follows
 
 - Intro to data science
 - Spreadsheets
 - Database (SQL)
-- R
+- R Programming
 - Data Transformation
 - Data Visualization
 - Essential Statistics for Data Analyst
-- Essential Machine Learning for Data Analyst
 - Essential Machine Learning for Data Analyst
 - Python Programming
 - Essential Python for Data Analyst
